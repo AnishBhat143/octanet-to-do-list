@@ -111,9 +111,3 @@ ul li span:hover{
 .checked {
     text-decoration: line-through;
   }
-
-  @media screen and (max-width: 600px) {
-    .row {
-        flex-direction: row; /* Resetting flex direction for larger screens */
-    }
-}
